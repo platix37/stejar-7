@@ -1,0 +1,12 @@
+D:\MEGA\!!Projects\Reverse\Reverse\bin\Debug\Reverse.exe.config
+D:\MEGA\!!Projects\Reverse\Reverse\bin\Debug\Reverse.exe
+D:\MEGA\!!Projects\Reverse\Reverse\bin\Debug\Reverse.pdb
+D:\MEGA\!!Projects\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
+D:\MEGA\!!Projects\Reverse\Reverse\obj\Debug\Reverse.exe
+D:\MEGA\!!Projects\Reverse\Reverse\obj\Debug\Reverse.pdb
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\bin\Debug\Reverse.exe.config
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\obj\Debug\Reverse.exe
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\obj\Debug\Reverse.pdb
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\bin\Debug\Reverse.exe
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\bin\Debug\Reverse.pdb
+D:\MEGA\!!Projects\!!Oros-lab\Reverse\Reverse\obj\Debug\Reverse.csprojResolveAssemblyReference.cache
