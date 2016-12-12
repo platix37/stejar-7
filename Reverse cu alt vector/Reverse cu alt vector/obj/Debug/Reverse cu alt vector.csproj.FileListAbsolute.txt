@@ -1,0 +1,6 @@
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\bin\Debug\Reverse cu alt vector.exe.config
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\bin\Debug\Reverse cu alt vector.exe
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\bin\Debug\Reverse cu alt vector.pdb
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\obj\Debug\Reverse cu alt vector.csprojResolveAssemblyReference.cache
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\obj\Debug\Reverse cu alt vector.exe
+D:\MEGA\!!Projects\Reverse cu alt vector\Reverse cu alt vector\obj\Debug\Reverse cu alt vector.pdb
